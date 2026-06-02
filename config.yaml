@@ -3,14 +3,8 @@ defaults:
   max_columns: 100
   max_columns_alignment: left
 
-transition:
-    duration_millis: 100
-    frames: 90
-    animation:
-      style: slide_horizontal
-
 mermaid:
-  scale: 20
+  scale: 2
 
 options:
   implicit_slide_ends: true

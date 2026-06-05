@@ -1,3 +1,20 @@
-(A) +video Why I moved away from Snowfall due:2026-06-05
-(D) +video Why I stopped using Rust for everything
-(F) Running a hydra instance???
++yap +software_engineering the tech job market isn't cooked
+(A) +nix snowfall->homegrown due:2026-06-05
++devops +nix running your own Hydra CI instance
+(C) +software_engineering rust is not always the answer
++software_engineering +yap Why I contribute to open source
+@longform +software_engineering +devops Building a pubsub event queue with ZMQ
+@longform +software_engineering Writing a collaborative editor protocol
++software_engineering lua is an amazing language
++software_engineering +yap C++ doesn't suck
++devops +nix secrets management in NixOS | vault maybe???
+(A) +nix +yap why nixos is worth the pain
+@longform +software_engineering +devops building a service mesh with ZMQ
+@longform +software_engineering work stealing job system in C++ with coroutines and lambdas | aka coroutines are not that scary
++devops +yap docker is not the answer to every problem
+(B) @longform +software_engineering networking is easy
++devops +nix cross compiling with nix
+@longform +software_engineering writing a custom init system
+(A) @longform +software_engineering building software like it's 1995
+@longform +software_engineering designing software that fits in your head
++yap +software_engineering the best stratagy. build open source, build a company around deploying it
